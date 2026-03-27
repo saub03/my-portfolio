@@ -63,7 +63,7 @@ with mid_col2:
     st.markdown("---")
     # 자격증/어학 능력 더미 데이터
     st.markdown("- **데이터 분석 준전문가 (ADsP)**, 2026 ")
-    st.markdown("- **SQL 개발자 (SQLd)**, 2026(취득 예정)")
+    st.markdown("- **SQL 개발자 (SQLD)**, 2026(취득 예정)")
     st.markdown("- **한국사능력검정시험 1급**, 2026")
     st.markdown("- **TOEIC**: 835점, 2025")
 
